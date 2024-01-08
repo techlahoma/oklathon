@@ -4,7 +4,7 @@ Welcome to the **Techlahoma Hackathon 2024**! An exciting event where coders, de
 
 ## Event Details
 
-**Date:** March 1st, 2024  
+**Date:** Saturday, March 9th, 2024  
 **Time:** 1:00 PM to 5:00 PM  
 
 Join us for an afternoon of creativity, collaboration, and coding. Whether you're a seasoned developer or just starting out, there's something for everyone at the Techlahoma Hackathon.
