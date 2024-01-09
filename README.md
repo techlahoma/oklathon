@@ -6,7 +6,7 @@ Welcome to the **Oklathon 2024**! An exciting event where coders, designers, and
 
 **Date:** Saturday, March 9th, 2024  
 **Time:** 1:00 PM to 5:00 PM  
-**Location:** Norman, OK
+**Location:** Norman, OK<br />
 **Type:** In-person
 
 
