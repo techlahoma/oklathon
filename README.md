@@ -1,4 +1,4 @@
-# Oklathon 2024(beta)
+# Oklathon 2024
 
 Join us for an afternoon of creativity, collaboration, and coding. This event is the perfect opportunity for developers of all skill levels, from beginners to seasoned professionals, to come together and make a real difference. Oklathon 2024 isn't just about writing code; it's about harnessing the power of open source to create positive changes in our community.
 
