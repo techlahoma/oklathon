@@ -1,6 +1,6 @@
-# Oklathon 2024 - beta
+# Oklathon 2024(beta)
 
-Welcome to the **Oklathon 2024**! An exciting event where coders, designers, and tech enthusiasts come together to innovate and create.
+Join us for an afternoon of creativity, collaboration, and coding. This event is the perfect opportunity for developers of all skill levels, from beginners to seasoned professionals, to come together and make a real difference. Oklathon 2024 isn't just about writing code; it's about harnessing the power of open source to create positive changes in our community.
 
 ## Event Details
 
@@ -8,9 +8,6 @@ Welcome to the **Oklathon 2024**! An exciting event where coders, designers, and
 **Time:** 1:00 PM to 5:00 PM  
 **Location:** Norman, OK<br />
 **Type:** In-person
-
-
-Join us for an afternoon of creativity, collaboration, and coding. This event is the perfect opportunity for developers of all skill levels, from beginners to seasoned professionals, to come together and make a real difference. Oklathon 2024 isn't just about writing code; it's about harnessing the power of open source to create positive changes in our community.
 
 ## Interested in Participating?
 
