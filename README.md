@@ -16,15 +16,16 @@ Join us for an afternoon of creativity, collaboration, and coding. This event is
 
 If you're interested in joining the Hackathon, please fill out the [Interest Form](https://example.com/form).
 
-We're looking forward to seeing what you'll create. Get ready to hack, have fun, and be a part of something amazing!
+
+We're excited to see your contributions to open-source software. Get ready to dive in, have fun, and be a part of something amazing!
 
 ## Sponsors
 
 A huge thank you to our amazing sponsors who made this event possible:
 
-- **Techlahoma**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
-- **IMMY**: a rapidly growing in-vitro diagnostic manufacturer and global leader in fungal diseases, providing diagnostic solutions and products to over 80 countries to enhance patient care and therapy.
-- **ITG**: a software and data analytics company that specializes in improving healthcare systems. 
+![Techlahoma Logo](./techlahoma-logo.png)- **Techlahoma**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
+![IMMY Logo](./immy_logo.svg)- **IMMY**: a rapidly growing in-vitro diagnostic manufacturer and global leader in fungal diseases, providing diagnostic solutions and products to over 80 countries to enhance patient care and therapy.
+![ITG Logo](./immy_technology_group_logo.jpeg)- **ITG**: a software and data analytics company that specializes in improving healthcare systems. 
 
 
 
