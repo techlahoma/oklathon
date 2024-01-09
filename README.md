@@ -1,27 +1,32 @@
-# Techlahoma Hackathon 2024
+# Oklathon 2024 - beta
 
-Welcome to the **Techlahoma Hackathon 2024**! An exciting event where coders, designers, and tech enthusiasts come together to innovate and create.
+Welcome to the **Oklathon 2024**! An exciting event where coders, designers, and tech enthusiasts come together to innovate and create.
 
 ## Event Details
 
 **Date:** March 1st, 2024  
 **Time:** 1:00 PM to 5:00 PM  
+**Location:** Norman, OK
+**Type:** In-person
 
-Join us for an afternoon of creativity, collaboration, and coding. Whether you're a seasoned developer or just starting out, there's something for everyone at the Techlahoma Hackathon.
 
-## Sponsors
-
-A huge thank you to our amazing sponsors who made this event possible:
-
-- **Techlahoma**: Empowering Oklahoma's tech community.
-- **IMMY**: Innovators in immersive technology.
-- **ITG**: Pioneers in tech solutions.
+Join us for an afternoon of creativity, collaboration, and coding. This event is the perfect opportunity for developers of all skill levels, from beginners to seasoned professionals, to come together and make a real difference. Oklathon 2024 isn't just about writing code; it's about harnessing the power of open source to create positive changes in our community.
 
 ## Interested in Participating?
 
 If you're interested in joining the Hackathon, please fill out the [Interest Form](https://example.com/form).
 
 We're looking forward to seeing what you'll create. Get ready to hack, have fun, and be a part of something amazing!
+
+## Sponsors
+
+A huge thank you to our amazing sponsors who made this event possible:
+
+- **Techlahoma**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
+- **IMMY**: a rapidly growing in-vitro diagnostic manufacturer and global leader in fungal diseases, providing diagnostic solutions and products to over 80 countries to enhance patient care and therapy.
+- **ITG**: a software and data analytics company that specializes in improving healthcare systems. 
+
+
 
 ---
 
