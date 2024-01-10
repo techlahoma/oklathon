@@ -28,4 +28,4 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 ---
 
-For more information, questions, or how to get involved, please contact us at [contact@example.com](mailto:contact@example.com).
+For more information, questions, or how to get involved, join us on in the [Hackathon channel on Techlahoma Slack](https://techlahoma.slack.com/archives/C0658NNE6LS).
