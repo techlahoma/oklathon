@@ -9,7 +9,7 @@ Join us for an afternoon of creativity, collaboration, and coding. This event is
 **Date:** Saturday, March 9th, 2024  
 **Time:** 1:00 PM to 5:00 PM  
 **Location:** Norman, OK - [IMMY](https://maps.app.goo.gl/t8X6L1gHGjDrwVYD6)<br /> 
-**Type:** In-person
+**Type:** In-person team event. Several different open-source projects will be provided prior to the event. Participants will choose which project they would like to work on. Each team will be comprised of developers from all experience levels. All experience levels are encouraged!!
 
 ## Interested in Participating?
 
