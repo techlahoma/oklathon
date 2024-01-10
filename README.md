@@ -1,4 +1,4 @@
-# [<h3 color="#B5E853">Oklathon 2024</h3>](https://github.com/techlahoma/oklathon/)
+# [Oklathon 2024](https://github.com/techlahoma/oklathon/)
 
 <hr />
 
