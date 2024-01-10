@@ -1,4 +1,4 @@
-# Oklathon 2024
+# [Oklathon 2024](https://github.com/techlahoma/oklathon/)
 
 <hr />
 
@@ -31,3 +31,8 @@ A huge thank you to our amazing sponsors who made this event possible:
 ---
 
 For more information, questions, or how to get involved, join us on in the [Hackathon channel on Techlahoma Slack](https://techlahoma.slack.com/archives/C0658NNE6LS).
+
+# FAQ
+
+* Is it ok to be late? I'm in a class until 1:00.
+  * Yes, but the hackathon is only 4 hours long, so you probably won't want to show up too late.
