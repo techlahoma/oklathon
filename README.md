@@ -26,7 +26,7 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 - **[Techlahoma](https://www.techlahoma.org/)**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
 - **[IMMY](https://immy.com/)**: a rapidly growing in-vitro diagnostic manufacturer and global leader in fungal diseases, providing diagnostic solutions and products to over 80 countries to enhance patient care and therapy.
-- **[ITG](https://www.streamline.care/)**: a software and data analytics company that specializes in improving healthcare systems. 
+- **[ITG - Streamline](https://www.streamline.care/)**: a software and data analytics company that specializes in improving healthcare systems.
 
 
 ## Potential Projects (more to come)
