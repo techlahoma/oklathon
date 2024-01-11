@@ -32,8 +32,8 @@ A huge thank you to our amazing sponsors who made this event possible:
 ## Potential Projects (more to come)
 
 
-- **[SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
-- **[200OK](https://github.com/techlahoma/200ok-site)
+- **[SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)**
+- **[200OK](https://github.com/techlahoma/200ok-site)**
 
 
 ---
