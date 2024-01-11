@@ -29,6 +29,12 @@ A huge thank you to our amazing sponsors who made this event possible:
 - **[ITG](https://www.streamline.care/)**: a software and data analytics company that specializes in improving healthcare systems. 
 
 
+## Potential Projects (more to come)
+
+
+- **[SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
+- **[200OK](https://github.com/techlahoma/200ok-site)
+
 
 ---
 
