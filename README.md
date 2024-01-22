@@ -27,6 +27,10 @@ We're excited to see your contributions to open-source software. Get ready to di
 * Some familiarity with web development
 * VS Code or another IDE set up on your laptop
 
+## Resources and Tutorials
+
+* [freeCodeCamp](https://www.freecodecamp.org/) 
+
 ## Sponsors
 
 A huge thank you to our amazing sponsors who made this event possible:
@@ -37,10 +41,10 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 ## Potential Projects (more to come)
 
-- **[200OK](https://github.com/techlahoma/200ok-site)**
-- **[OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)**
-- **[Oklathon](https://github.com/techlahoma/oklathon)**
-- **[SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)**
+- [200OK](https://github.com/techlahoma/200ok-site)
+- [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)
+- [Oklathon](https://github.com/techlahoma/oklathon)
+- [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
 
 ---
 
