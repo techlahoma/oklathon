@@ -48,7 +48,7 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 ---
 
-For more information, questions, or how to get involved, join us in the [#hackathons channel on Techlahoma Slack](https://techlahoma.slack.com/archives/C0658NNE6LS).
+For more information, questions, or how to get involved, join us in the [#hackathons channel on Techlahoma Slack](https://techlahoma.slack.com/archives/C0658NNE6LS). If you're not a member of Techlahoma's Slack yet, go to [slack.techlahoma.org](http://slack.techlahoma.org/) to sign up!
 
 # FAQ
 
