@@ -45,6 +45,7 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)
 - [Oklathon](https://github.com/techlahoma/oklathon)
 - [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
+- Slack intro guide for Techlahoma (no repo yet)
 
 ---
 
