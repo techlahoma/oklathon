@@ -46,6 +46,7 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [Oklathon](https://github.com/techlahoma/oklathon)
 - [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
 - Slack intro guide for Techlahoma (no repo yet)
+- [Software Carpentry](https://github.com/swcarpentry)
 
 ---
 
