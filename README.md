@@ -29,7 +29,8 @@ We're excited to see your contributions to open-source software. Get ready to di
 
 ## Resources and Tutorials
 
-* [freeCodeCamp](https://www.freecodecamp.org/) 
+* [freeCodeCamp](https://www.freecodecamp.org/)
+* [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Sponsors
 
