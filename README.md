@@ -42,6 +42,7 @@ A huge thank you to our amazing sponsors who made this event possible:
 ## Potential Projects (more to come)
 
 - [200OK](https://github.com/techlahoma/200ok-site)
+- [Code Newbies](https://github.com/techlahoma/code-newbies)
 - [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)
 - [Oklathon](https://github.com/techlahoma/oklathon)
 - [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
