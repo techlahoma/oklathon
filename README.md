@@ -49,6 +49,7 @@ A huge thank you to our amazing sponsors who made this event possible:
 - Slack intro guide for Techlahoma (no repo yet)
 - [Software Carpentry](https://github.com/swcarpentry)
 - [Techlahoma Who's Who](https://github.com/FreeCodeCampOKC/techlahoma-whos-who)
+- ThunderPlains 2024 (no repo yet)
 
 ---
 
