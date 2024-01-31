@@ -23,8 +23,9 @@ We're excited to see your contributions to open-source software. Get ready to di
 
 ## Prerequisites
 
-* Some familiarity with Git/GitHub
 * Some familiarity with web development
+* Experience with GitHub pull requests
+* Git set up on your laptop
 * VS Code or another IDE set up on your laptop
 
 ## Resources and Tutorials
