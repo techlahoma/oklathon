@@ -31,7 +31,9 @@ We're excited to see your contributions to open-source software. Get ready to di
 ## Resources and Tutorials
 
 * [freeCodeCamp](https://www.freecodecamp.org/)
+* [GitHub Pages](https://pages.github.com/)
 * [Learn Git Branching](https://learngitbranching.js.org/)
+* [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## Sponsors
 
