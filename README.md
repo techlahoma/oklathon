@@ -62,5 +62,9 @@ For more information, questions, or how to get involved, join us in the [#hackat
 
 # FAQ
 
-* Is it ok to be late? I'm in a class until 1:00.
+* Is this event for very new coders?
+  * If you're new to coding, please review the lists of prerequisites and resources above so you can determine whether you'll be ready in time.
+* How many days does this hackathon last?
+  * Just one! We might do another event like this again someday, but this time will be on Saturday, March 9 only!
+* Is it ok to be late?
   * Yes, but the hackathon is only 4 hours long, so you probably won't want to show up too late.
