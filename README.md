@@ -45,16 +45,16 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 ## Potential Projects (more to come)
 
-- [200OK](https://github.com/techlahoma/200ok-site)
-- [Code Newbies](https://github.com/techlahoma/code-newbies)
-- [Heating and Cooling Centers](https://github.com/alex-code4okc/oklahoma_cooling_centers_python)
-- [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)
-- [Oklathon](https://github.com/techlahoma/oklathon)
-- [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
-- Slack intro guide for Techlahoma (no repo yet)
+- [200OK](https://github.com/techlahoma/200ok-site) - work on issues
+- [Code Newbies](https://github.com/techlahoma/code-newbies) - update doc and maybe create website
+- [Heating and Cooling Centers](https://github.com/alex-code4okc/oklahoma_cooling_centers_python) - work on issues
+- [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code) - create website
+- [Oklathon](https://github.com/techlahoma/oklathon) - update website
+- [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org) - create website
+- Slack intro guide for Techlahoma (no repo yet) - create website
 - [Software Carpentry](https://github.com/swcarpentry)
-- [Techlahoma Who's Who](https://github.com/FreeCodeCampOKC/techlahoma-whos-who)
-- ThunderPlains 2024 (no repo yet)
+- [Techlahoma Who's Who](https://github.com/FreeCodeCampOKC/techlahoma-whos-who) - maybe create a new version
+- [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024) - create website
 
 ---
 
