@@ -50,7 +50,7 @@ A huge thank you to our amazing sponsors who made this event possible:
   - To do during Oklathon: Work on [issues](https://github.com/techlahoma/200ok-site/issues?q=is%3Aissue+is%3Aopen+label%3Aoklathon)
 - [Code Newbies](https://github.com/techlahoma/code-newbies)
   - Guide for code newbies
-  - To do during Oklathon: Update doc and maybe create website
+  - To do during Oklathon: Update doc and create website (can just be markdown using GitHub Pages)
 - [Heating and Cooling Centers](https://github.com/alex-code4okc/oklahoma_cooling_centers_python)
   - Website that maps heating and cooling centers in Oklahoma
   - To do during Oklathon: Work on [issues](https://github.com/alex-code4okc/oklahoma_cooling_centers_python/issues)
@@ -64,7 +64,7 @@ A huge thank you to our amazing sponsors who made this event possible:
   - Website for [SheCodesOKC(https://www.meetup.com/shecodesokc) meetup group
   - To do during Oklathon: Create website using provided design
 - Slack intro guide for Techlahoma (no repo yet)
-  - To do during Oklathon: Create websitee (can just be markdown using GitHub Pages)
+  - To do during Oklathon: Create website (can just be markdown using GitHub Pages)
 - [Software Carpentry](https://github.com/swcarpentry)
   - Website, lessons and templates for [Software Carpentry](https://software-carpentry.org/)
   - To do during Oklathon: Work on [issues](https://github.com/search?q=org%3Aswcarpentry+is%3Aissue+is%3Aopen&type=issues)
