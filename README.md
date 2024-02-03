@@ -45,16 +45,35 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 ## Potential Projects (more to come)
 
-- [200OK](https://github.com/techlahoma/200ok-site) - work on issues
-- [Code Newbies](https://github.com/techlahoma/code-newbies) - update doc and maybe create website
-- [Heating and Cooling Centers](https://github.com/alex-code4okc/oklahoma_cooling_centers_python) - work on issues
-- [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code) - create website
-- [Oklathon](https://github.com/techlahoma/oklathon) - update website
-- [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org) - create website
-- Slack intro guide for Techlahoma (no repo yet) - create website
+- [200OK](https://github.com/techlahoma/200ok-site)
+  - Website for [200OK](https://200ok.us/) conference
+  - To do during Oklathon: Work on [issues](https://github.com/techlahoma/200ok-site/issues?q=is%3Aissue+is%3Aopen+label%3Aoklathon)
+- [Code Newbies](https://github.com/techlahoma/code-newbies)
+  - Guide for code newbies
+  - To do during Oklathon: Update doc and maybe create website
+- [Heating and Cooling Centers](https://github.com/alex-code4okc/oklahoma_cooling_centers_python)
+  - Website that maps heating and cooling centers in Oklahoma
+  - To do during Oklathon: Work on [issues](https://github.com/alex-code4okc/oklahoma_cooling_centers_python/issues)
+- [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)
+  - Website for [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/) meetup group
+  - To do during Oklathon: Design and create website (can just be markdown using GitHub Pages)
+- [Oklathon](https://github.com/techlahoma/oklathon)
+  - Website for [Oklathon](https://hack.techlahoma.org/)
+  - To do during Oklathon: Update website
+- [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
+  - Website for [SheCodesOKC(https://www.meetup.com/shecodesokc) meetup group
+  - To do during Oklathon: Create website using provided design
+- Slack intro guide for Techlahoma (no repo yet)
+  - To do during Oklathon: Create websitee (can just be markdown using GitHub Pages)
 - [Software Carpentry](https://github.com/swcarpentry)
-- [Techlahoma Who's Who](https://github.com/FreeCodeCampOKC/techlahoma-whos-who) - maybe create a new version
-- [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024) - create website
+  - Website, lessons and templates for [Software Carpentry](https://software-carpentry.org/)
+  - To do during Oklathon: Work on [issues](https://github.com/search?q=org%3Aswcarpentry+is%3Aissue+is%3Aopen&type=issues)
+- [Techlahoma Who's Who](https://github.com/FreeCodeCampOKC/techlahoma-whos-who)
+  - Who's Who game
+  - To do during Oklathon: Create an updated version of the game
+- [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024)
+  - Website for [ThunderPlains](https://thunderplainsconf.com/) conference
+  - To do during Oklathon: Create placeholder website for 2024
 
 ---
 
