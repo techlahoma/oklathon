@@ -75,6 +75,9 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024)
   - Website for [ThunderPlains](https://thunderplainsconf.com/) conference
   - To do during Oklathon: Create placeholder website for 2024
+- Oklahoma earthquakes (no project or repo yet)
+  - Analysis or visualization of Oklahoma earthquakes
+  - [Oklahoma Geological Survey Earthquake Catalog Download Tool](https://ogsweb.ou.edu/eq_catalog/) and [USGS Earthquake Catalog API](https://earthquake.usgs.gov/fdsnws/event/1/) might be useful 
 
 ---
 
