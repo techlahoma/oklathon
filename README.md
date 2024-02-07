@@ -68,7 +68,7 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
   - Website for [SheCodesOKC](https://www.meetup.com/shecodesokc) meetup group
   - To do during Oklathon: Create website using provided design
-- Slack intro guide for Techlahoma (no repo yet)
+- [Slack intro guide for Techlahoma](https://github.com/techlahoma/slack-guide)
   - Guide to help people join and invite others to join Techlahoma's Slack
   - To do during Oklathon: Create website (can just be markdown using GitHub Pages)
 - [Techlahoma Who's Who](https://github.com/FreeCodeCampOKC/techlahoma-whos-who)
