@@ -82,7 +82,11 @@ A huge thank you to our amazing sponsors who made this event possible:
   - To do during Oklathon: Create placeholder website for 2024
 - Oklahoma earthquakes (no project or repo yet)
   - Analysis or visualization of Oklahoma earthquakes
-  - [Oklahoma Geological Survey Earthquake Catalog Download Tool](https://ogsweb.ou.edu/eq_catalog/) and [USGS Earthquake Catalog API](https://earthquake.usgs.gov/fdsnws/event/1/) might be useful 
+  - [Oklahoma Geological Survey Earthquake Catalog Download Tool](https://ogsweb.ou.edu/eq_catalog/) and [USGS Earthquake Catalog API](https://earthquake.usgs.gov/fdsnws/event/1/) might be useful
+- [WebSync](https://github.com/jtsmedley/WebSync)
+  - Simple URL download tool that creates a local repo of remote content
+  - Explores bash for Prototyping, ndJSON for Config Files, ETag(s) for Caching, and JavaScript (CLI, Async Promises, Caching).
+  - This project is brand new and one of the issues is also just coming up with a cool code name so feel free to get involved even in a small way.
 
 ---
 
