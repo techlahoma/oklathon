@@ -86,6 +86,7 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024)
   - Website for [ThunderPlains](https://thunderplainsconf.com/) conference
   - To do during Oklathon: Create [placeholder website](https://github.com/techlahoma/thunderplains-2024/issues/1) for 2024
+- Tulsa WebDevs - repo link will be available soon
 - [WebSync](https://github.com/jtsmedley/WebSync)
   - Simple URL download tool that creates a local repo of remote content
   - Explores bash for Prototyping, ndJSON for Config Files, ETag(s) for Caching, and JavaScript (CLI, Async Promises, Caching).
