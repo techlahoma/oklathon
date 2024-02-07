@@ -65,6 +65,7 @@ A huge thank you to our amazing sponsors who made this event possible:
   - To do during Oklathon: Work on [issues](https://github.com/alex-code4okc/oklahoma_cooling_centers_python/issues)
 - [My First PR](https://github.com/jacrys/my-first-pr)
   - C# website that filters open GitHub issues
+  - To do during Oklathon: Work on [issues](https://github.com/jacrys/my-first-pr/issues)
 - [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)
   - Website for [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/) meetup group
   - To do during Oklathon: Design and create website (can just be markdown using GitHub Pages)
@@ -86,7 +87,9 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024)
   - Website for [ThunderPlains](https://thunderplainsconf.com/) conference
   - To do during Oklathon: Create [placeholder website](https://github.com/techlahoma/thunderplains-2024/issues/1) for 2024
-- Tulsa WebDevs - repo link will be available soon
+- Tulsa WebDevs
+  - Website for Tulsa WebDevs meetup group; repo link will be available soon
+  - Astro / Vue SPA with microservices backend; SQLite on the local FS for DB
 - [WebSync](https://github.com/jtsmedley/WebSync)
   - Simple URL download tool that creates a local repo of remote content
   - Explores bash for Prototyping, ndJSON for Config Files, ETag(s) for Caching, and JavaScript (CLI, Async Promises, Caching).
