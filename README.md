@@ -38,7 +38,11 @@ We're excited to see your contributions to open-source software. Get ready to di
   * [Learn Git Branching](https://learngitbranching.js.org/)
   * [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
   * [First Contributions](https://github.com/firstcontributions/first-contributions)
-  * [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
+  * Issue Collections
+    * [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
+    * [Good First Issue](https://goodfirstissue.dev/)
+    * [Good First Issues](https://goodfirstissues.com/)
+    * [Up for Grabs](https://up-for-grabs.net/)
 
 ## Sponsors
 
@@ -59,9 +63,14 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [Heating and Cooling Centers](https://github.com/alex-code4okc/oklahoma_cooling_centers_python)
   - Python project to generate [webpage map](https://alex-code4okc.github.io/oklahoma_cooling_centers_python/) of heating and cooling centers in Oklahoma
   - To do during Oklathon: Work on [issues](https://github.com/alex-code4okc/oklahoma_cooling_centers_python/issues)
+- [My First PR](https://github.com/jacrys/my-first-pr)
+  - C# website that filters open GitHub issues
 - [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)
   - Website for [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/) meetup group
   - To do during Oklathon: Design and create website (can just be markdown using GitHub Pages)
+- Oklahoma earthquakes (no project or repo yet)
+  - Analysis or visualization of Oklahoma earthquakes (Python)
+  - [Oklahoma Geological Survey Earthquake Catalog Download Tool](https://ogsweb.ou.edu/eq_catalog/) and [USGS Earthquake Catalog API](https://earthquake.usgs.gov/fdsnws/event/1/) might be useful
 - [Oklathon](https://github.com/techlahoma/oklathon)
   - Website for [Oklathon](https://hack.techlahoma.org/)
   - To do during Oklathon: Update website
@@ -76,10 +85,7 @@ A huge thank you to our amazing sponsors who made this event possible:
   - To do during Oklathon: Create an updated version of the game
 - [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024)
   - Website for [ThunderPlains](https://thunderplainsconf.com/) conference
-  - To do during Oklathon: Create placeholder website for 2024
-- Oklahoma earthquakes (no project or repo yet)
-  - Analysis or visualization of Oklahoma earthquakes
-  - [Oklahoma Geological Survey Earthquake Catalog Download Tool](https://ogsweb.ou.edu/eq_catalog/) and [USGS Earthquake Catalog API](https://earthquake.usgs.gov/fdsnws/event/1/) might be useful
+  - To do during Oklathon: Create [placeholder website](https://github.com/techlahoma/thunderplains-2024/issues/1) for 2024
 - [WebSync](https://github.com/jtsmedley/WebSync)
   - Simple URL download tool that creates a local repo of remote content
   - Explores bash for Prototyping, ndJSON for Config Files, ETag(s) for Caching, and JavaScript (CLI, Async Promises, Caching).
