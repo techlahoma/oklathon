@@ -31,9 +31,14 @@ We're excited to see your contributions to open-source software. Get ready to di
 ## Resources and Tutorials
 
 * [freeCodeCamp](https://www.freecodecamp.org/)
-* [GitHub Pages](https://pages.github.com/)
-* [Learn Git Branching](https://learngitbranching.js.org/)
-* [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+  * [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+  * [JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+* Git/GitHub 
+  * [GitHub Pages](https://pages.github.com/)
+  * [Learn Git Branching](https://learngitbranching.js.org/)
+  * [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+  * [First Contributions](https://github.com/firstcontributions/first-contributions)
+  * [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
 
 ## Sponsors
 
