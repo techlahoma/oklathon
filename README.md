@@ -43,6 +43,7 @@ We're excited to see your contributions to open-source software. Get ready to di
     * [Good First Issue](https://goodfirstissue.dev/)
     * [Good First Issues](https://goodfirstissues.com/)
     * [Up for Grabs](https://up-for-grabs.net/)
+* [Vue](https://vuejs.org/tutorial)
 
 ## Sponsors
 
