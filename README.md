@@ -111,3 +111,5 @@ For more information, questions, or how to get involved, join us in the [#hackat
   * Just one! We might do another event like this again someday, but this time will be on Saturday, March 9 only!
 * Is it ok to be late?
   * Yes, but the hackathon is only 4 hours long, so you probably won't want to show up too late.
+* Can we incorporate hardware elements into our projects? (Raspberry Pi, ESP8266, etc.)
+  * You can do this outside of Oklathon, but please don't bring any hardware items to the event. Just bring your laptop and any accessories you need for it, like your charging cable!
