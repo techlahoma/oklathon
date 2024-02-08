@@ -75,6 +75,9 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [Oklathon](https://github.com/techlahoma/oklathon)
   - Website for [Oklathon](https://hack.techlahoma.org/)
   - To do during Oklathon: Update website
+- [Ranked List](https://github.com/cotterjd/ranked-list)
+  - Vue/Vite PWA that has a list of things ordered by "rank" denoted by a number you can increment or decrement (use case example would be a watch list, every time someone mentions or recommends a movie, you add it to the list or bump it up in the list)
+  - To do during Oklathon: Work on [issues](https://github.com/cotterjd/ranked-list/issues)
 - [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
   - Website for [SheCodesOKC](https://www.meetup.com/shecodesokc) meetup group
   - To do during Oklathon: Create website using provided design
