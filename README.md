@@ -91,13 +91,15 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024)
   - Website for [ThunderPlains](https://thunderplainsconf.com/) conference
   - To do during Oklathon: Create [placeholder website](https://github.com/techlahoma/thunderplains-2024/issues/1) for 2024
-- Tulsa WebDevs
-  - Website for Tulsa WebDevs meetup group; repo link will be available soon
+- [Tulsa WebDevs](https://github.com/tulsawebdevs/website)
+  - Website for [Tulsa WebDevs](https://www.meetup.com/tulsa-web-devs/) meetup group
   - Astro / Vue SPA with microservices backend; SQLite on the local FS for DB
+  - To do during Oklathon: Work on [issues](https://github.com/tulsawebdevs/website/issues)
 - [WebSync](https://github.com/jtsmedley/WebSync)
   - Simple URL download tool that creates a local repo of remote content
   - Explores bash for Prototyping, ndJSON for Config Files, ETag(s) for Caching, and JavaScript (CLI, Async Promises, Caching).
   - This project is brand new and one of the issues is also just coming up with a cool code name so feel free to get involved even in a small way.
+  - To do during Oklathon: Work on [issues](https://github.com/jtsmedley/WebSync/issues)
 
 ---
 
