@@ -70,8 +70,8 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)
   - Website for [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/) meetup group
   - To do during Oklathon: Design and create website (can just be markdown using GitHub Pages)
-- Oklahoma earthquakes (no project or repo yet)
-  - Analysis or visualization of Oklahoma earthquakes (Python)
+- [Oklahoma earthquakes](https://github.com/somet-code/oklahoma_earthquakes)
+  - List or visualize recent Oklahoma earthquakes (Python)
   - [Oklahoma Geological Survey Earthquake Catalog Download Tool](https://ogsweb.ou.edu/eq_catalog/) and [USGS Earthquake Catalog API](https://earthquake.usgs.gov/fdsnws/event/1/) might be useful
 - [Oklathon](https://github.com/techlahoma/oklathon)
   - Website for [Oklathon](https://hack.techlahoma.org/)
