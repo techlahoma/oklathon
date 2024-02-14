@@ -13,7 +13,7 @@ Oklathon 2024 isn't just about writing code; it's about harnessing the power of 
 * **Location:** Norman, OK - [IMMY](https://maps.app.goo.gl/t8X6L1gHGjDrwVYD6)
 * **Format:** In-person team event
 
-Several different web-based open-source projects will be provided prior to the event. Participants will choose which project they would like to work on. Each team will be comprised of developers from different experience levels. At the conclusion of the event, each team will have a opportunity to present the work they have done.
+Several different web-based open-source projects will be provided prior to the event. Participants will choose which project they would like to work on. Each team will be comprised of developers from different experience levels. At the conclusion of the event, each team will have an optional opportunity to present the work they have done or talk about what they worked on.
 
 ## Interested in Participating?
 
@@ -118,3 +118,5 @@ For more information, questions, or how to get involved, join us in the [#hackat
   * Yes, but the hackathon is only 4 hours long, so you probably won't want to show up too late.
 * Can we incorporate hardware elements into our projects? (Raspberry Pi, ESP8266, etc.)
   * You can do this outside of Oklathon, but please don't bring any hardware items to the event. Just bring your laptop and any accessories you need for it, like your charging cable!
+* Do we have to finish a project or feature during the hackathon?
+  * Definitely not. Any progress is a success!
