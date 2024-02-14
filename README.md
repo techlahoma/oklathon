@@ -19,6 +19,8 @@ Several different web-based open-source projects will be provided prior to the e
 
 If you're interested in joining the Hackathon, please fill out the [Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf4D8tSHEjMSJL2pnNjWYyRLuXBYTbLC3i_V9rx2uM2Y4jmCg/viewform).
 
+If you know which project(s) you're interested in and are pretty sure you'll be able to attend the event, go ahead and [register](https://forms.gle/aW11ad1mjoEZE2jVA)!
+
 We're excited to see your contributions to open-source software. Get ready to dive in, have fun, and be a part of something amazing!
 
 ## Prerequisites
