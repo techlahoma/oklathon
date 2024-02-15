@@ -57,17 +57,15 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 ## Organizers
 
-* Amanda Kis
-* Bryan Rigsby
-* Fazil Raja
-* Jason Smedley
-* Kimberly Collins
-* Luigi Polvani
-* Robert Farley
+1. Amanda Kis
+1. Bryan Rigsby
+1. Fazil Raja
+1. Jason Smedley
+1. Kimberly Collins
+1. Luigi Polvani
+1. Robert Farley
 
-- **[Oklathon Talk](https://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s)**: Oklathon talk presented by Fazil Raja
-
-[![Oklathon talk presented by Fazil Raja](http://img.youtube.com/vi/4Dk5jlRfWsw/0.jpg)](http://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s "Oklathon talk presented by Fazil Rajae")
+**[Oklathon Talk](https://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s)** presented by Fazil Raja
 
 ## Potential Projects (more to come)
 
