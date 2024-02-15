@@ -62,11 +62,12 @@ A huge thank you to our amazing sponsors who made this event possible:
 * Fazil Raja
 * Jason Smedley
 * Kimberly Collins
-* Luigi
+* Luigi Polvani
 * Robert Farley
 
 - **[Oklathon Talk](https://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s)**: Oklathon talk presented by Fazil Raja
 
+[![Oklathon talk presented by Fazil Raja](http://img.youtube.com/vi/4Dk5jlRfWsw/0.jpg)](http://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s "Oklathon talk presented by Fazil Rajae")
 
 ## Potential Projects (more to come)
 
