@@ -55,6 +55,19 @@ A huge thank you to our amazing sponsors who made this event possible:
 - **[IMMY](https://immy.com/)**: a rapidly growing in-vitro diagnostic manufacturer and global leader in fungal diseases, providing diagnostic solutions and products to over 80 countries to enhance patient care and therapy.
 - **[ITG](https://www.immytech.com/)**: a software and data analytics company that specializes in improving healthcare systems.
 
+## Organizers
+
+* Amanda Kis
+* Bryan Rigsby
+* Fazil Raja
+* Jason Smedley
+* Kimberly Collins
+* Luigi
+* Robert Farley
+
+- **[Oklathon Talk](https://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s)**: Oklathon talk presented by Fazil Raja
+
+
 ## Potential Projects (more to come)
 
 - [200OK](https://github.com/techlahoma/200ok-site)
