@@ -28,7 +28,7 @@ We're excited to see your contributions to open-source software. Get ready to di
 * Some familiarity with web development
 * Experience with GitHub pull requests
 * Git set up on your laptop
-* VS Code or another IDE set up on your laptop
+* VS Code or another code editor/IDE set up on your laptop
 
 ## Resources and Tutorials
 
@@ -109,8 +109,8 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024)
   - Website for [ThunderPlains](https://thunderplainsconf.com/) conference
   - To do during Oklathon: Create [placeholder website](https://github.com/techlahoma/thunderplains-2024/issues/1) for 2024
-- [Tulsa WebDevs](https://github.com/tulsawebdevs/website)
-  - Website for [Tulsa WebDevs](https://www.meetup.com/tulsa-web-devs/) meetup group
+- [Tulsa Web Devs](https://github.com/tulsawebdevs/website)
+  - Website for [Tulsa Web Devs](https://www.meetup.com/tulsa-web-devs/) meetup group
   - Astro / Vue SPA with microservices backend; SQLite on the local FS for DB
   - To do during Oklathon: Work on [issues](https://github.com/tulsawebdevs/website/issues)
 - [WebSync](https://github.com/jtsmedley/WebSync)
@@ -126,7 +126,7 @@ For more information, questions, or how to get involved, join us in the [#hackat
 # FAQ
 
 * Is this event for very new coders?
-  * If you're new to coding, please review the lists of prerequisites and resources above so you can determine whether you'll be ready in time.
+  * If you're new to coding, please review the lists of prerequisites and resources above so you can determine whether you'll be ready in time. We highly recommend that you get some practice with creating pull requests on GitHub before the event!
 * How many days does this hackathon last?
   * Just one! We might do another event like this again someday, but this time will be on Saturday, March 9 only!
 * Is it ok to be late?
@@ -135,3 +135,5 @@ For more information, questions, or how to get involved, join us in the [#hackat
   * You can do this outside of Oklathon, but please don't bring any hardware items to the event. Just bring your laptop and any accessories you need for it, like your charging cable!
 * Do we have to finish a project or feature during the hackathon?
   * Definitely not. Any progress is a success!
+* Will there be swag and prizes!
+  * No prizes (everyone is a winner at this event), but we'll have some stickers provided by our sponsors!  
