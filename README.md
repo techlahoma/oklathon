@@ -75,7 +75,7 @@ A huge thank you to our amazing sponsors who made this event possible:
   - To do during Oklathon: Work on [issues](https://github.com/techlahoma/200ok-site/issues?q=is%3Aissue+is%3Aopen+label%3Aoklathon)
 - [Code Newbies](https://github.com/techlahoma/code-newbies)
   - Guide for code newbies
-  - To do during Oklathon: Update doc and create website (can just be markdown using GitHub Pages)
+  - To do during Oklathon: Update doc and create website using GitHub Pages (can just be markdown or HTML/CSS/JS - no framework for now)
 - [Heating and Cooling Centers](https://github.com/alex-code4okc/oklahoma_cooling_centers_python)
   - Python project to generate [webpage map](https://alex-code4okc.github.io/oklahoma_cooling_centers_python/) of heating and cooling centers in Oklahoma
   - To do during Oklathon: Work on [issues](https://github.com/alex-code4okc/oklahoma_cooling_centers_python/issues)
@@ -84,13 +84,13 @@ A huge thank you to our amazing sponsors who made this event possible:
   - To do during Oklathon: Work on [issues](https://github.com/jacrys/my-first-pr/issues)
 - [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)
   - Website for [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/) meetup group
-  - To do during Oklathon: Design and create website (can just be markdown using GitHub Pages)
-- [Oklahoma earthquakes](https://github.com/somet-code/oklahoma_earthquakes)
+  - To do during Oklathon: Design and create website using GitHub Pages (can just be markdown or HTML/CSS/JS - no framework for now)
+- [Oklahoma Earthquakes](https://github.com/somet-code/oklahoma_earthquakes)
   - List or visualize recent Oklahoma earthquakes (Python)
   - [Oklahoma Geological Survey Earthquake Catalog Download Tool](https://ogsweb.ou.edu/eq_catalog/) and [USGS Earthquake Catalog API](https://earthquake.usgs.gov/fdsnws/event/1/) might be useful
 - [Oklathon](https://github.com/techlahoma/oklathon)
   - Website for [Oklathon](https://hack.techlahoma.org/)
-  - To do during Oklathon: Update website
+  - To do during Oklathon: Update website using GitHub Pages (can just be markdown or HTML/CSS/JS - no framework for now)
 - [Ranked List](https://github.com/cotterjd/ranked-list)
   - Vue/Vite PWA that has a list of things ordered by "rank" denoted by a number you can increment or decrement (use case example would be a watch list, every time someone mentions or recommends a movie, you add it to the list or bump it up in the list)
   - To do during Oklathon: Work on [issues](https://github.com/cotterjd/ranked-list/issues)
@@ -99,16 +99,16 @@ A huge thank you to our amazing sponsors who made this event possible:
   - To do during Oklathon: Fix data caching or find another solution to avoid rate limiting
 - [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
   - Website for [SheCodesOKC](https://www.meetup.com/shecodesokc) meetup group
-  - To do during Oklathon: Create website using provided design
+  - To do during Oklathon: Create website using provided design (HTML/CSS/JS - no framework for now)
 - [Slack intro guide for Techlahoma](https://github.com/techlahoma/slack-guide)
   - Guide to help people join and invite others to join Techlahoma's Slack
-  - To do during Oklathon: Create website (can just be markdown using GitHub Pages)
+  - To do during Oklathon: Create website using GitHub Pages (can just be markdown or HTML/CSS/JS - no framework for now)
 - [Techlahoma Who's Who](https://github.com/FreeCodeCampOKC/techlahoma-whos-who)
   - [Who's Who game](https://freecodecampokc.github.io/techlahoma-whos-who/)
-  - To do during Oklathon: Create an updated version of the game
+  - To do during Oklathon: Create an updated version of the game (HTML/CSS/JS - no framework for now)
 - [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024)
   - Website for [ThunderPlains](https://thunderplainsconf.com/) conference
-  - To do during Oklathon: Create [placeholder website](https://github.com/techlahoma/thunderplains-2024/issues/1) for 2024
+  - To do during Oklathon: Create [placeholder website](https://github.com/techlahoma/thunderplains-2024/issues/1) for 2024 (HTML/CSS/JS - no framework for now)
 - [Tulsa Web Devs](https://github.com/tulsawebdevs/website)
   - Website for [Tulsa Web Devs](https://www.meetup.com/tulsa-web-devs/) meetup group
   - Astro / Vue SPA with microservices backend; SQLite on the local FS for DB
