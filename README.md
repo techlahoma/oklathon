@@ -78,6 +78,9 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [My First PR](https://github.com/jacrys/my-first-pr)
   - C# website that filters open GitHub issues
   - To do during Oklathon: Work on [issues](https://github.com/jacrys/my-first-pr/issues)
+- [News Scraper](https://github.com/elizabethrsotomayor/news-scraper)
+  - A website that scrapes and archives headlines from news sites (AP News, Reuters, Bloomberg) every 15 minutes using Selenium or similar.
+  - To do during Oklathon: Create the website using Flask and/or Jinja templating.
 - [OKC Coffee and Code](https://github.com/kacollins/okc-coffee-and-code)
   - Website for [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/) meetup group
   - To do during Oklathon: Design and create website using GitHub Pages (can just be markdown or HTML/CSS/JS - no framework for now)
@@ -114,7 +117,6 @@ A huge thank you to our amazing sponsors who made this event possible:
   - Explores bash for Prototyping, ndJSON for Config Files, ETag(s) for Caching, and JavaScript (CLI, Async Promises, Caching).
   - This project is brand new and one of the issues is also just coming up with a cool code name so feel free to get involved even in a small way.
   - To do during Oklathon: Work on [issues](https://github.com/jtsmedley/WebSync/issues)
-- A website that scrapes and archives headlines from news sites (AP News, Reuters, Bloomberg) every 15 minutes using Selenium or similar.
 
 ---
 
