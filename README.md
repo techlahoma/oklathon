@@ -15,9 +15,7 @@ Oklathon 2024 isn't just about writing code; it's about harnessing the power of 
 
 Several different web-based open-source projects will be provided prior to the event. Participants will choose which project they would like to work on. Each team will be comprised of developers from different experience levels. At the conclusion of the event, each team will have an optional opportunity to present the work they have done or talk about what they worked on.
 
-## Interested in Participating?
-
-If you know which project(s) you're interested in and are pretty sure you'll be able to attend the event, go ahead and [register](https://forms.gle/aW11ad1mjoEZE2jVA)!
+## Registration is Full!
 
 We're excited to see your contributions to open-source software. Get ready to dive in, have fun, and be a part of something amazing!
 
