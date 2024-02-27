@@ -64,7 +64,7 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 **[Oklathon Talk](https://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s)** presented by Fazil Raja
 
-## Potential Projects (more to come)
+## Projects
 
 - [200OK](https://github.com/techlahoma/200ok-site)
   - Website for [200OK](https://200ok.us/) conference (deployed on Netlify, built with Eleventy)
@@ -93,9 +93,6 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [Ranked List](https://github.com/cotterjd/ranked-list)
   - Vue/Vite PWA that has a list of things ordered by "rank" denoted by a number you can increment or decrement (use case example would be a watch list, every time someone mentions or recommends a movie, you add it to the list or bump it up in the list)
   - To do during Oklathon: Work on [issues](https://github.com/cotterjd/ranked-list/issues)
-- [Recent Commits](https://github.com/kacollins/recent-commits)
-  - [Website](https://kacollins.github.io/recent-commits/) to display Techlahomies with the most recent GitHub commits
-  - To do during Oklathon: Fix data caching or find another solution to avoid rate limiting
 - [SheCodesOKC](https://github.com/shecodesokc/shecodesokc.org)
   - Website for [SheCodesOKC](https://www.meetup.com/shecodesokc) meetup group
   - To do during Oklathon: Create website using provided design (HTML/CSS/JS - no framework for now)
@@ -120,7 +117,7 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 ---
 
-For more information, questions, or how to get involved, join us in the [#hackathons channel on Techlahoma Slack](https://techlahoma.slack.com/archives/C0658NNE6LS). If you're not a member of Techlahoma's Slack yet, go to [slack.techlahoma.org](http://slack.techlahoma.org/) to sign up!
+For more information, questions, or how to get involved, join us in the [#oklathon channel on Techlahoma Slack](https://techlahoma.slack.com/archives/C06JCE6PCTA). If you're not a member of Techlahoma's Slack yet, go to [slack.techlahoma.org](http://slack.techlahoma.org/) to sign up!
 
 # FAQ
 
