@@ -75,9 +75,6 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [Heating and Cooling Centers](https://github.com/alex-code4okc/oklahoma_cooling_centers_python)
   - Python project to generate [webpage map](https://alex-code4okc.github.io/oklahoma_cooling_centers_python/) of heating and cooling centers in Oklahoma
   - To do during Oklathon: Work on [issues](https://github.com/alex-code4okc/oklahoma_cooling_centers_python/issues)
-- [My First PR](https://github.com/jacrys/my-first-pr)
-  - C# website that filters open GitHub issues
-  - To do during Oklathon: Work on [issues](https://github.com/jacrys/my-first-pr/issues)
 - [News Scraper](https://github.com/elizabethrsotomayor/news-scraper)
   - A website that scrapes and archives headlines from news sites (AP News, Reuters, Bloomberg) every 15 minutes using Selenium or similar.
   - To do during Oklathon: Create the website using Flask and/or Jinja templating.
@@ -99,9 +96,6 @@ A huge thank you to our amazing sponsors who made this event possible:
 - [Slack intro guide for Techlahoma](https://github.com/techlahoma/slack-guide)
   - Guide to help people join and invite others to join Techlahoma's Slack
   - To do during Oklathon: Create website using GitHub Pages (can just be markdown or HTML/CSS/JS - no framework for now)
-- [Techlahoma Who's Who](https://github.com/FreeCodeCampOKC/techlahoma-whos-who)
-  - [Who's Who game](https://freecodecampokc.github.io/techlahoma-whos-who/)
-  - To do during Oklathon: Create an updated version of the game (HTML/CSS/JS - no framework for now)
 - [ThunderPlains 2024](https://github.com/techlahoma/thunderplains-2024)
   - Website for [ThunderPlains](https://thunderplainsconf.com/) conference
   - To do during Oklathon: Create [placeholder website](https://github.com/techlahoma/thunderplains-2024/issues/1) for 2024 (HTML/CSS/JS - no framework for now)
