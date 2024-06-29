@@ -1,21 +1,36 @@
-<h1><a href="https://github.com/techlahoma/oklathon/" style="color: #B5E853;">Oklathon 2024</a></h1>
+<h1><a href="https://github.com/techlahoma/oklathon/" style="color: #B5E853;">Oklathon 2024:Part Deux</a></h1>  
 
 <hr />
 
-Join us for an afternoon of creativity, collaboration, and coding. This event is the perfect opportunity for developers of all skill levels, from juniors to seasoned professionals, to come together and make a real difference.
+Join us for an event like no other! An event packed full with collaboration, coding, and snacks! This event is the perfect opportunity for developers of all skill levels, from juniors to seasoned professionals, to join together to build something awesome and make a real difference. 
 
-Oklathon 2024 isn't just about writing code; it's about harnessing the power of open source to create positive changes in our community.
+<!-- Join us for an afternoon of creativity, collaboration, and coding. This event is the perfect opportunity for developers of all skill levels, from juniors to seasoned professionals, to come together and make a real difference.  -->
+
+Oklathon 2024:Part Deux isn't just about writing code; it's about harnessing the power of open source to create positive changes in our community.
 
 ## Event Details
 
-- **Date:** Saturday, March 9th, 2024
-- **Time:** 1:00 PM to 5:00 PM
-- **Location:** Norman, OK - [IMMY](https://maps.app.goo.gl/t8X6L1gHGjDrwVYD6)
-- **Format:** In-person team event
+<!-- * **Date:** Saturday, March 9th, 2024  
+* **Time:** 1:00 PM to 5:00 PM  
+* **Location:** Norman, OK - [IMMY](https://maps.app.goo.gl/t8X6L1gHGjDrwVYD6)
+* **Format:** In-person team event -->
 
-Several different web-based open-source projects will be provided prior to the event. Participants will choose which project they would like to work on. Each team will be comprised of developers from different experience levels. At the conclusion of the event, each team will have an optional opportunity to present the work they have done or talk about what they worked on.
+* **Date:** October - exact dates TBD
+* **Time:** TBD 
+* **Location:** TBD
+* **Format:** TBD
 
-## Registration is Full!
+<!-- Several different web-based open-source projects will be provided prior to the event. Participants will choose which project they would like to work on. Each team will be comprised of developers from different experience levels. At the conclusion of the event, each team will have an optional opportunity to present the work they have done or talk about what they worked on. -->
+
+At our inagural envent several different web-based open-source projects were provided. Participants chose which project they wanted to work on. Each team was comprised of developers from different experience levels. This is likely the structure we will take for the upcoming event, but we are definitely open to new ideas!
+
+## Interested in Participating?
+
+<!-- If you're interested in joining the Hackathon, please fill out the [Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf4D8tSHEjMSJL2pnNjWYyRLuXBYTbLC3i_V9rx2uM2Y4jmCg/viewform).
+
+If you know which project(s) you're interested in and are pretty sure you'll be able to attend the event, go ahead and [register](https://forms.gle/aW11ad1mjoEZE2jVA)! -->
+
+If you would like to be kept up-to-date as we finialize the details, please fill out the [Interest Form](https://docs.google.com/forms/d/1vD8mLukucD6QI8EEj73BsDP2C2u3LIcPHtmJ8dP3vIA/viewform)
 
 We're excited to see your contributions to open-source software. Get ready to dive in, have fun, and be a part of something amazing!
 
@@ -47,26 +62,31 @@ We're excited to see your contributions to open-source software. Get ready to di
 
 A huge thank you to our amazing sponsors who made this event possible:
 
-- **[Techlahoma](https://www.techlahoma.org/)**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
+TBD
+
+<!-- - **[Techlahoma](https://www.techlahoma.org/)**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
 - **[IMMY](https://immy.com/)**: a rapidly growing in-vitro diagnostic manufacturer and global leader in fungal diseases, providing diagnostic solutions and products to over 80 countries to enhance patient care and therapy.
 - **[ITG](https://www.immytech.com/)**: a software and data analytics company that specializes in improving healthcare systems.
-- **[SPLOTCH CREATIVE](https://www.splotch.page/)**: a multifaceted company offering services in 3D/2D printing, electronics manufacturing, design, sign making, interactive art, electronics design, and fulfillment services, emphasizing innovation in tech and art.
+
+- **[SPLOTCH CREATIVE](https://www.splotch.page/)**:  a multifaceted company offering services in 3D/2D printing, electronics manufacturing, design, sign making, interactive art, electronics design, and fulfillment services, emphasizing innovation in tech and art. -->
 
 ## Organizers
 
-1. Amanda Kis
-1. Bryan Rigsby
-1. Fazil Raja
-1. Jason Smedley
-1. Kimberly Collins
-1. Luigi Polvani
-1. Robert Farley
+- Amanda Kis
+- Bryan Rigsby
+- Jason Smedley
+- Luigi Polvani
+- Robert Farley
+- George Lynch
+- Shannon Nix
 
-**[Oklathon Talk](https://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s)** presented by Fazil Raja
+<!-- **[Oklathon Talk](https://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s)** presented by Fazil Raja -->
 
-## Projects
+## Potential Projects 
 
-- [200OK](https://github.com/techlahoma/200ok-site)
+TBD
+
+<!-- - [200OK](https://github.com/techlahoma/200ok-site)
   - Website for [200OK](https://200ok.us/) conference (deployed on Netlify, built with Eleventy)
   - To do during Oklathon: Work on [issues](https://github.com/techlahoma/200ok-site/issues?q=is%3Aissue+is%3Aopen+label%3Aoklathon)
 - [Code Newbies](https://github.com/techlahoma/code-newbies)
@@ -105,19 +125,17 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 ---
 
-For more information, questions, or how to get involved, join us in the [#oklathon channel on Techlahoma Slack](https://techlahoma.slack.com/archives/C06JCE6PCTA). If you're not a member of Techlahoma's Slack yet, go to [slack.techlahoma.org](http://slack.techlahoma.org/) to sign up!
+For more information, questions, or how to get involved, join us in the [#hackathons channel on Techlahoma Slack](https://techlahoma.slack.com/archives/C0658NNE6LS). If you're not a member of Techlahoma's Slack yet, go to [slack.techlahoma.org](http://slack.techlahoma.org/) to sign up! -->
 
 # FAQ
 
-- Is this event for very new coders?
-  - If you're new to coding, please review the lists of prerequisites and resources above so you can determine whether you'll be ready in time. We highly recommend that you get some practice with creating pull requests on GitHub before the event!
-- How many days does this hackathon last?
-  - Just one! We might do another event like this again someday, but this time will be on Saturday, March 9 only!
-- Is it ok to be late?
-  - Yes, but the hackathon is only 4 hours long, so you probably won't want to show up too late.
-- Can we incorporate hardware elements into our projects? (Raspberry Pi, ESP8266, etc.)
-  - You can do this outside of Oklathon, but please don't bring any hardware items to the event. Just bring your laptop and any accessories you need for it, like your charging cable!
-- Do we have to finish a project or feature during the hackathon?
-  - Definitely not. Any progress is a success!
-- Will there be swag and prizes!
-  - No prizes (everyone is a winner at this event), but we'll have some stickers provided by our sponsors!
+* Is this event for very new coders?
+  * If you're new to coding, please review the lists of prerequisites and resources above so you can determine whether you'll be ready in time.
+<!-- * How many days does this hackathon last?
+  * Just one! We might do another event like this again someday, but this time will be on Saturday, March 9 only!
+* Is it ok to be late?
+  * Yes, but the hackathon is only 4 hours long, so you probably won't want to show up too late.
+* Can we incorporate hardware elements into our projects? (Raspberry Pi, ESP8266, etc.)
+  * You can do this outside of Oklathon, but please don't bring any hardware items to the event. Just bring your laptop and any accessories you need for it, like your charging cable!
+* Do we have to finish a project or feature during the hackathon?
+  * Definitely not. Any progress is a success! -->
