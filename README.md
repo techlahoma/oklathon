@@ -86,7 +86,9 @@ TBD
 
 TBD
 
-<!-- - [200OK](https://github.com/techlahoma/200ok-site)
+## Past Projects
+
+- [200OK](https://github.com/techlahoma/200ok-site)
   - Website for [200OK](https://200ok.us/) conference (deployed on Netlify, built with Eleventy)
   - To do during Oklathon: Work on [issues](https://github.com/techlahoma/200ok-site/issues?q=is%3Aissue+is%3Aopen+label%3Aoklathon)
 - [Code Newbies](https://github.com/techlahoma/code-newbies)
@@ -125,17 +127,17 @@ TBD
 
 ---
 
-For more information, questions, or how to get involved, join us in the [#hackathons channel on Techlahoma Slack](https://techlahoma.slack.com/archives/C0658NNE6LS). If you're not a member of Techlahoma's Slack yet, go to [slack.techlahoma.org](http://slack.techlahoma.org/) to sign up! -->
+For more information, questions, or how to get involved, join us in the [#hackathons channel on Techlahoma Slack](https://techlahoma.slack.com/archives/C0658NNE6LS). If you're not a member of Techlahoma's Slack yet, go to [slack.techlahoma.org](http://slack.techlahoma.org/) to sign up!
 
 # FAQ
 
 * Is this event for very new coders?
   * If you're new to coding, please review the lists of prerequisites and resources above so you can determine whether you'll be ready in time.
-<!-- * How many days does this hackathon last?
-  * Just one! We might do another event like this again someday, but this time will be on Saturday, March 9 only!
-* Is it ok to be late?
-  * Yes, but the hackathon is only 4 hours long, so you probably won't want to show up too late.
-* Can we incorporate hardware elements into our projects? (Raspberry Pi, ESP8266, etc.)
-  * You can do this outside of Oklathon, but please don't bring any hardware items to the event. Just bring your laptop and any accessories you need for it, like your charging cable!
-* Do we have to finish a project or feature during the hackathon?
-  * Definitely not. Any progress is a success! -->
+<!-- * How many days does this hackathon last? -->
+  <!-- * Just one! We might do another event like this again someday, but this time will be on Saturday, March 9 only!-->
+<!--* Is it ok to be late?-->
+  <!--* Yes, but the hackathon is only 4 hours long, so you probably won't want to show up too late.-->
+<!--* Can we incorporate hardware elements into our projects? (Raspberry Pi, ESP8266, etc.)-->
+  <!--* You can do this outside of Oklathon, but please don't bring any hardware items to the event. Just bring your laptop and any accessories you need for it, like your charging cable!-->
+<!--* Do we have to finish a project or feature during the hackathon?-->
+  <!--* Definitely not. Any progress is a success! -->
