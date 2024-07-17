@@ -23,7 +23,7 @@ Join us for an event like no other! An event packed full with collaboration, cod
 
 ## Interested in Participating?
 
-At our inagural envent several different web-based open-source projects were provided. Participants chose which project they wanted to work on. Each team was comprised of developers from different experience levels. 
+At our inagural event several different web-based open-source projects were provided. Participants chose which project they wanted to work on. Each team was comprised of developers from different experience levels. 
 
 For our upcoming October event we would love to see what projects you all would like to work on! Fill out the [Interest Form](https://docs.google.com/forms/d/1vD8mLukucD6QI8EEj73BsDP2C2u3LIcPHtmJ8dP3vIA/viewform) and let your voice be heard!
 
