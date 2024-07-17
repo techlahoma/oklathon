@@ -1,12 +1,12 @@
-<h1><a href="https://github.com/techlahoma/oklathon/" style="color: #B5E853;">Oklathon 2024:Part Deux</a></h1>  
+<h1><a href="https://github.com/techlahoma/oklathon/" style="color: #B5E853;">Oklathon 2024</a></h1>  
 
 <hr />
 
-Join us for an event like no other! An event packed full with collaboration, coding, and snacks! This event is the perfect opportunity for developers of all skill levels, from juniors to seasoned professionals, to join together to build something awesome and make a real difference. 
+Join us for an event like no other! An event packed full with collaboration, coding, and snacks! This event is the perfect opportunity for developers of all skill levels, from juniors to seasoned professionals, to join together to build something awesome. 
 
 <!-- Join us for an afternoon of creativity, collaboration, and coding. This event is the perfect opportunity for developers of all skill levels, from juniors to seasoned professionals, to come together and make a real difference.  -->
 
-Oklathon 2024:Part Deux isn't just about writing code; it's about harnessing the power of open source to create positive changes in our community.
+<!-- Oklathon isn't just about writing code; it's about harnessing the power of open source to create positive changes in our community. -->
 
 ## Event Details
 
@@ -15,24 +15,26 @@ Oklathon 2024:Part Deux isn't just about writing code; it's about harnessing the
 * **Location:** Norman, OK - [IMMY](https://maps.app.goo.gl/t8X6L1gHGjDrwVYD6)
 * **Format:** In-person team event -->
 
-* **Date:** October - exact dates TBD
+* **Date:** October 19, 2024
 * **Time:** TBD 
 * **Location:** TBD
-* **Format:** TBD
 
 <!-- Several different web-based open-source projects will be provided prior to the event. Participants will choose which project they would like to work on. Each team will be comprised of developers from different experience levels. At the conclusion of the event, each team will have an optional opportunity to present the work they have done or talk about what they worked on. -->
 
-At our inagural envent several different web-based open-source projects were provided. Participants chose which project they wanted to work on. Each team was comprised of developers from different experience levels. This is likely the structure we will take for the upcoming event, but we are definitely open to new ideas!
-
 ## Interested in Participating?
+
+At our inagural envent several different web-based open-source projects were provided. Participants chose which project they wanted to work on. Each team was comprised of developers from different experience levels. 
+
+For our upcoming October event we would love to see what projects you all would like to work on! Fill out the [Interest Form](https://docs.google.com/forms/d/1vD8mLukucD6QI8EEj73BsDP2C2u3LIcPHtmJ8dP3vIA/viewform) and let your voice be heard!
+
 
 <!-- If you're interested in joining the Hackathon, please fill out the [Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf4D8tSHEjMSJL2pnNjWYyRLuXBYTbLC3i_V9rx2uM2Y4jmCg/viewform).
 
 If you know which project(s) you're interested in and are pretty sure you'll be able to attend the event, go ahead and [register](https://forms.gle/aW11ad1mjoEZE2jVA)! -->
 
-If you would like to be kept up-to-date as we finialize the details, please fill out the [Interest Form](https://docs.google.com/forms/d/1vD8mLukucD6QI8EEj73BsDP2C2u3LIcPHtmJ8dP3vIA/viewform)
+<!-- If you would like to be kept up-to-date as we finialize the details, please fill out the [Interest Form](https://docs.google.com/forms/d/1vD8mLukucD6QI8EEj73BsDP2C2u3LIcPHtmJ8dP3vIA/viewform) -->
 
-We're excited to see your contributions to open-source software. Get ready to dive in, have fun, and be a part of something amazing!
+We're excited to see what you can build! Get ready to dive in, have fun, and be a part of something amazing!
 
 ## Prerequisites
 
@@ -74,9 +76,7 @@ TBD
 
 - Amanda Kis
 - Bryan Rigsby
-- Jason Smedley
 - Luigi Polvani
-- Robert Farley
 - George Lynch
 - Shannon Nix
 
