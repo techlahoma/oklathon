@@ -34,7 +34,7 @@ If you know which project(s) you're interested in and are pretty sure you'll be 
 
 <!-- If you would like to be kept up-to-date as we finialize the details, please fill out the [Interest Form](https://docs.google.com/forms/d/1vD8mLukucD6QI8EEj73BsDP2C2u3LIcPHtmJ8dP3vIA/viewform) -->
 
-We're excited to see what you can build! Get ready to dive in, have fun, and be a part of something amazing!
+Get ready to dive in, have fun, and be a part of something amazing! We're excited to see what you can build! 
 
 ## Prerequisites
 
