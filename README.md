@@ -17,7 +17,7 @@ Join us for an event like no other! An event packed full with collaboration, cod
 
 * **Date:** October 19, 2024
 * **Time:** TBD 
-* **Location:** TBD
+* **Location:** IMMY, Norman
 
 <!-- Several different web-based open-source projects will be provided prior to the event. Participants will choose which project they would like to work on. Each team will be comprised of developers from different experience levels. At the conclusion of the event, each team will have an optional opportunity to present the work they have done or talk about what they worked on. -->
 
@@ -66,9 +66,9 @@ A huge thank you to our amazing sponsors who made this event possible:
 
 TBD
 
-<!-- - **[Techlahoma](https://www.techlahoma.org/)**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
+- **[Techlahoma](https://www.techlahoma.org/)**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
 - **[IMMY](https://immy.com/)**: a rapidly growing in-vitro diagnostic manufacturer and global leader in fungal diseases, providing diagnostic solutions and products to over 80 countries to enhance patient care and therapy.
-- **[ITG](https://www.immytech.com/)**: a software and data analytics company that specializes in improving healthcare systems.
+<!-- - **[ITG](https://www.immytech.com/)**: a software and data analytics company that specializes in improving healthcare systems.
 
 - **[SPLOTCH CREATIVE](https://www.splotch.page/)**:  a multifaceted company offering services in 3D/2D printing, electronics manufacturing, design, sign making, interactive art, electronics design, and fulfillment services, emphasizing innovation in tech and art. -->
 
