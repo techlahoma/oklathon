@@ -70,7 +70,9 @@ A huge thank you to our amazing sponsors who make this event possible:
 ## More Sponsors are always needed
 
 Help us make this event awesome! Please [reach out](mailto:oklathon@gmail.com) if you would like to sponsor. 
-<!-- - **[ITG](https://www.immytech.com/)**: a software and data analytics company that specializes in improving healthcare systems.
+
+
+<!-- **[ITG](https://www.immytech.com/)**: a software and data analytics company that specializes in improving healthcare systems.
 
 - **[SPLOTCH CREATIVE](https://www.splotch.page/)**:  a multifaceted company offering services in 3D/2D printing, electronics manufacturing, design, sign making, interactive art, electronics design, and fulfillment services, emphasizing innovation in tech and art. -->
 
