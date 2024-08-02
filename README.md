@@ -2,7 +2,7 @@
 
 <hr />
 
-Join us for an event like no other! An event packed full with collaboration, coding, and snacks! This event is the perfect opportunity for developers of all skill levels, from juniors to seasoned professionals, to join together to build something awesome. 
+Join us for an event like no other! An event packed full with collaboration, coding, and lunch! This event is the perfect opportunity for developers of all skill levels, from juniors to seasoned professionals, to join together to build something awesome. 
 
 <!-- Join us for an afternoon of creativity, collaboration, and coding. This event is the perfect opportunity for developers of all skill levels, from juniors to seasoned professionals, to come together and make a real difference.  -->
 
@@ -16,7 +16,7 @@ Join us for an event like no other! An event packed full with collaboration, cod
 * **Format:** In-person team event -->
 
 * **Date:** October 19, 2024
-* **Time:** TBD 
+* **Time:** 9-4 with provided lunch and networking from 12-1
 * **Location:** IMMY, Norman
 
 <!-- Several different web-based open-source projects will be provided prior to the event. Participants will choose which project they would like to work on. Each team will be comprised of developers from different experience levels. At the conclusion of the event, each team will have an optional opportunity to present the work they have done or talk about what they worked on. -->
@@ -62,12 +62,14 @@ Get ready to dive in, have fun, and be a part of something amazing! We're excite
 
 ## Sponsors
 
-A huge thank you to our amazing sponsors who made this event possible:
-
-TBD
+A huge thank you to our amazing sponsors who make this event possible:
 
 - **[Techlahoma](https://www.techlahoma.org/)**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
 - **[IMMY](https://immy.com/)**: a rapidly growing in-vitro diagnostic manufacturer and global leader in fungal diseases, providing diagnostic solutions and products to over 80 countries to enhance patient care and therapy.
+
+## More Sponsors are always needed
+
+Help us make this event awesome! Please [reach out](mailto:oklathon@gmail.com) if you would like to sponsor. 
 <!-- - **[ITG](https://www.immytech.com/)**: a software and data analytics company that specializes in improving healthcare systems.
 
 - **[SPLOTCH CREATIVE](https://www.splotch.page/)**:  a multifaceted company offering services in 3D/2D printing, electronics manufacturing, design, sign making, interactive art, electronics design, and fulfillment services, emphasizing innovation in tech and art. -->
@@ -79,8 +81,11 @@ TBD
 - Luigi Polvani
 - George Lynch
 - Shannon Nix
+- Jose Rivas
 
-<!-- **[Oklathon Talk](https://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s)** presented by Fazil Raja -->
+## The talk that started it all
+
+**[Oklathon Talk](https://www.youtube.com/watch?v=4Dk5jlRfWsw&t=4745s)** presented by Fazil Raja
 
 ## Potential Projects 
 
