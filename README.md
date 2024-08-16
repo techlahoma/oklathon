@@ -25,11 +25,11 @@ Get ready to dive in, have fun, and be a part of something amazing! We're excite
 - Git set up on your laptop
 - VS Code or another code editor/IDE set up on your laptop
 
-* **Never been to a hackathon before? Not sure what a pull request is? We got you**
+<h3>Never been to a hackathon before? Not sure what a pull request is? We got you</h3>
 
 ## Hackathon How-to class
 
-We are offering for the first time ever a Hackathon How-to class that will run along side Oklathon. In this class we will go from zero to pull request :) Spaces for this class will be very limited and will go fast, so be sure to register asap!
+We are offering for the first time ever a Hackathon How-to class that will run along side Oklathon. In this class we will go from zero to pull request :) Spaces for this class will be very limited and will go fast, so be sure to [register](https://forms.gle/9Y3Z7rv4aGiStGCt8) asap!
 
 ## Resources and Tutorials
 
