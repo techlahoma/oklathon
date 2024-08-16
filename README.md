@@ -25,7 +25,7 @@ Get ready to dive in, have fun, and be a part of something amazing! We're excite
 - Git set up on your laptop
 - VS Code or another code editor/IDE set up on your laptop
 
-## Never been to a hackathon before? Not sure what a pull request is? We got you! 
+## Never been to a hackathon? Not sure what a pull request is? We got you! 
 
 ## Hackathon How-to class
 
