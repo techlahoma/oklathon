@@ -15,7 +15,7 @@ Special thanks to our latest sponsor **[Filebase](https://filebase.com/)**!
 
 At our inagural event several different web-based open-source projects were provided. Participants chose which project they wanted to work on. Each team was comprised of developers from different experience levels. For our upcoming October event we would love to see what projects you all would like to work on! 
 
-## Get Registerd Now!
+## Get Registered Now!
 
 Fill out the [Registration Form](https://forms.gle/AnxQnqJwxgq4s3Gt8) and get ready to dive in, have fun, and be a part of something amazing! We're excited to see what you can build! 
 
