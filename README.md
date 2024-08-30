@@ -12,20 +12,12 @@ Special thanks to our latest sponsor **[Filebase](https://filebase.com/)**!
 * **Time:** 9-4 with lunch and networking from 12-1 sponsored by **[Filebase](https://filebase.com/)**!
 * **Location:** IMMY, Norman
 
-## Interested in Participating?
 
-At our inagural event several different web-based open-source projects were provided. Participants chose which project they wanted to work on. Each team was comprised of developers from different experience levels. 
+At our inagural event several different web-based open-source projects were provided. Participants chose which project they wanted to work on. Each team was comprised of developers from different experience levels. For our upcoming October event we would love to see what projects you all would like to work on! 
 
-For our upcoming October event we would love to see what projects you all would like to work on! Fill out the [Interest Form](https://docs.google.com/forms/d/1vD8mLukucD6QI8EEj73BsDP2C2u3LIcPHtmJ8dP3vIA/viewform) and let your voice be heard!
+## Get Registerd Now!
 
-Get ready to dive in, have fun, and be a part of something amazing! We're excited to see what you can build! 
-
-## Prerequisites
-
-- Some familiarity with development
-- Experience with GitHub pull requests
-- Git/Github Desktop set up on your laptop
-- VS Code or another code editor/IDE set up on your laptop
+Fill out the [Registration Form](https://forms.gle/AnxQnqJwxgq4s3Gt8) and get ready to dive in, have fun, and be a part of something amazing! We're excited to see what you can build! 
 
 ## Never been to a hackathon? Not sure what a pull request is? We got you! 
 
@@ -34,6 +26,13 @@ Get ready to dive in, have fun, and be a part of something amazing! We're excite
 For the first time ever, we are offering a Hackathon How-to class that will run along side Oklathon. In this class we will go from zero to pull request :) Spaces for this class will be very limited and will go fast, so be sure to [register](https://forms.gle/9Y3Z7rv4aGiStGCt8) ASAP!
 
 NOTE: This is not an Intro to Web Development workshop. Basic HTML/CSS and some Javascript knowledge will be needed. Check out the links below to up your dev game before the hackathon. 
+
+## Prerequisites
+
+- Some familiarity with development
+- Experience with GitHub pull requests
+- Git/Github Desktop set up on your laptop
+- VS Code or another code editor/IDE set up on your laptop
 
 
 ## Resources and Tutorials
