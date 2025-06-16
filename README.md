@@ -4,14 +4,14 @@
 
 Join us for an exciting weekend of innovation, collaboration, and learning at our AI Hack-A-Thon! Whether you're a seasoned pro or just starting your journey in Artificial Intelligence, this event is for you.
 
-## Interest form
+## Sign Up Form
 
 Let us know that you want to participate and how we can plan to make this the best experience for you and everyone else involved.
 
 
-[Fill the interest form here](https://docs.google.com/forms/d/e/1FAIpQLSeW1BAZIt1TeXF4tUybq8uh5CY6RqHgqhTML9XEUJhtGnAfww/viewform)
+[Fill in the sign up Form](https://forms.gle/qRGc4KVHYsu5aQGX9)
 
-## Tentative Dates & Times
+## Dates & Times
 
 * *Friday, July 18th: 5:30 PM - 9:00 PM* 
     Kick off the weekend with a meet & greet, an introductory talk to set the stage, and an idea breakout session to form teams and brainstorm projects.
