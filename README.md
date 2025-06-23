@@ -23,7 +23,8 @@ Let us know that you want to participate and how we can plan to make this the be
 
 ## What to Expect
 
-* *Guest Speakers*: Learn from industry experts and academic leaders discussing cutting-edge AI and ML concepts and applications.
+* *Guest Speakers*: Learn from industry experts and academic leaders discussing cutting-edge AI and ML concepts and applications, or demo your project live!
+* *Challenge Tasks*: [Sprint through the challenge tasks!](OklathonChallengeTasks.MD)
 * *Project Building*: Work solo or team up to develop an innovative AI/ML project. It's all about learning and creating – from concept to a working prototype!
 * *Networking*: Connect with fellow enthusiasts, potential collaborators, and mentors.
 * *Support & Mentorship*: Get guidance and support from experienced mentors throughout the event.
