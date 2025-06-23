@@ -1,11 +1,3 @@
-Of course\! This is an excellent idea. Using a specific, provided API makes the challenges much more focused and relevant to the resources you have on hand.
-
-The documentation you linked for the **NRP AI Managed LLM API** is perfect. The most important detail is that it's **compatible with the OpenAI API specification**. This makes it incredibly easy to use with standard tools and code examples.
-
-Here is a set of beginner-friendly, 1-hour challenges tailored specifically to use this API.
-
------
-
 ### **Getting Started: The Code for Every Challenge**
 
 For every task below, you will start with the following Python code in a [Google Colab](https://colab.research.google.com/) notebook. This code handles the connection to the NRP AI API.
