@@ -5,7 +5,7 @@ Welcome to the **Oklathon 2025 "Climb the Challenge Board"** track\! These short
 ### **Before you begin:**
 
 1. Get your **NRP\_API\_KEY** from an event organizer.  
-2. When you open a Google Colab link, you must add your API key as a **'secret'** to keep it secure. In Colab, click the key icon (**ðŸ”‘**) on the left sidebar, click '**Add a new secret**', name it **NRP\_API\_KEY**, paste your key in the '**Value**' field, and ensure the '**Notebook access**' toggle is on.
+2. When you open a Google Colab link, you must add your API key as a **'secret'** to keep it secure. In Colab, click the key icon (🔑) on the left sidebar, click '**Add a new secret**', name it **NRP\_API\_KEY**, paste your key in the '**Value**' field, and ensure the '**Notebook access**' toggle is on.
 
 ### **Task 0: See Your Available Models (IMPORTANT: RUN THIS FIRST\!)**
 
