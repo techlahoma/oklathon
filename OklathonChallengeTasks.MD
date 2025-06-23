@@ -57,8 +57,10 @@ client = OpenAI(
  <details>
      <summary>Spoiler warning! (It's OK to peek at this one!)</summary>
 
+
 [▶️ **Run this task in Google Colab**](https://colab.research.google.com/):
 
+**
 
 ```python
 # ==============================================================================
