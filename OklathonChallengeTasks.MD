@@ -59,10 +59,6 @@ client = OpenAI(
     <pre>
         <code>
 
-
-
-
-
 ```python
 # ==============================================================================
 # Task 0: See Your Available Models (IMPORTANT: RUN THIS FIRST!)
@@ -80,6 +76,7 @@ except APIError as e:
 except Exception as e:
     print(f"An unexpected error occurred: {e}")
 ```
+
 </code>
 </pre>
 </details>
@@ -151,6 +148,7 @@ MODEL_TO_USE = "llama3" # <-- CHANGE THIS IF NEEDED
      <summary>Spoiler warning</summary>
     <pre>
         <code>
+
 ```python
 # ==============================================================================
 # Task 1: The First Connection
@@ -171,6 +169,7 @@ try:
 except APIError as e:
     print(f"An API error occurred: {e}")
 ```
+
 </code>
 </pre>
 </details>
@@ -183,6 +182,7 @@ except APIError as e:
      <summary>Spoiler warning</summary>
     <pre>
         <code>
+
 ```python
 # ==============================================================================
 # Task 2: The AI Persona Switch
@@ -214,6 +214,7 @@ try:
 except APIError as e:
     print(f"An API error occurred: {e}")
 ```
+
 </code>
 </pre>
 </details>
@@ -246,6 +247,7 @@ try:
 except APIError as e:
     print(f"An API error occurred: {e}")
 ```
+
 </code>
 </pre>
 </details>
@@ -257,10 +259,10 @@ except APIError as e:
 **Heads-up:** This uses response\_format={"type": "json\_object"}, which not all models support. meta-llama/Llama-3-8b-chat-hf is a good choice if it's on your list.
   
  <details>
-     <summary>Spoiler warning</summary>
-  
+     <summary>Spoiler warning</summary>  
     <pre>
         <code>
+
 ```python
 # ==============================================================================
 # Task 5: The Data Extractor (JSON Mode)
@@ -284,6 +286,7 @@ except APIError as e:
     print(f"An API error occurred: {e}")
 except Exception as e:  
 ```
+
 </code>
 </pre>
 </details>
