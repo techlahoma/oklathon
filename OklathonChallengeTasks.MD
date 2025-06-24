@@ -59,9 +59,9 @@ client = OpenAI(
     <pre>
         <code>
 
-[▶️ **Run this task in Google Colab**](https://colab.research.google.com/):
 
-**
+
+
 
 ```python
 # ==============================================================================
@@ -149,9 +149,8 @@ MODEL_TO_USE = "llama3" # <-- CHANGE THIS IF NEEDED
 
  <details>
      <summary>Spoiler warning</summary>
-
-[▶️ **Run this task in Google Colab**](https://colab.research.google.com/):
-
+    <pre>
+        <code>
 ```python
 # ==============================================================================
 # Task 1: The First Connection
@@ -172,7 +171,8 @@ try:
 except APIError as e:
     print(f"An API error occurred: {e}")
 ```
-
+</code>
+</pre>
 </details>
 
 ### **Task 2: The AI Persona Switch**
@@ -181,8 +181,8 @@ except APIError as e:
 
  <details>
      <summary>Spoiler warning</summary>
-
-[▶️ **Run this task in Google Colab**](https://colab.research.google.com/):
+    <pre>
+        <code>
 ```python
 # ==============================================================================
 # Task 2: The AI Persona Switch
@@ -214,6 +214,8 @@ try:
 except APIError as e:
     print(f"An API error occurred: {e}")
 ```
+</code>
+</pre>
 </details>
 
 ### **Task 3: The Code Explainer**
@@ -222,8 +224,9 @@ except APIError as e:
 
  <details>
      <summary>Spoiler warning</summary>
+    <pre>
+        <code>
 
-[▶️ **Run this task in Google Colab**](https://colab.research.google.com/):
 ```python
 # ==============================================================================
 # Task 3: The Code Explainer
@@ -243,6 +246,8 @@ try:
 except APIError as e:
     print(f"An API error occurred: {e}")
 ```
+</code>
+</pre>
 </details>
 
 ### **Task 4: The Data Extractor (JSON Mode)**
@@ -254,7 +259,8 @@ except APIError as e:
  <details>
      <summary>Spoiler warning</summary>
   
-[▶️ **Run this task in Google Colab**](https://colab.research.google.com/):
+    <pre>
+        <code>
 ```python
 # ==============================================================================
 # Task 5: The Data Extractor (JSON Mode)
@@ -278,4 +284,6 @@ except APIError as e:
     print(f"An API error occurred: {e}")
 except Exception as e:  
 ```
+</code>
+</pre>
 </details>
