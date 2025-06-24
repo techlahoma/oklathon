@@ -55,7 +55,7 @@ client = OpenAI(
 **Why this is important:** Not all API keys have access to all models. This task lets you see your personalized list so you know what you can use.
 
  <details>
-    <summary>Spoiler warning! (It's OK to peek at this one!)</summary>
+    <summary><b>Spoiler warning! (It's OK to peek at this one!)</b></summary>
     <pre>
         <code>
 
