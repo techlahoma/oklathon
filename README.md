@@ -66,15 +66,13 @@ Individuals looking to learn new skills, build cool projects, and expand their p
 A huge thank you to our amazing sponsors who make this event possible:
 
 - **[Techlahoma](https://www.techlahoma.org/)**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
-- **[IMMY](https://immy.com/)**: a rapidly growing in-vitro diagnostic manufacturer and global leader in fungal diseases, providing diagnostic solutions and products to over 80 countries to enhance patient care and therapy.
-- **[Filebase](https://filebase.com/)**: The InterPlanetary Development Platform. From IPFS pinning to dedicated IPFS gateways and IPNS names, Filebase provides all the tools you need to build the best decentralized applications.
+
 
 ## More Sponsors are always needed
 
 Help us make this event awesome! Please [reach out](mailto:oklathon@gmail.com) if you would like to sponsor. 
 
 
-<!-- **[ITG](https://www.immytech.com/)**: a software and data analytics company that specializes in improving healthcare systems.
 
 - **[SPLOTCH CREATIVE](https://www.splotch.page/)**:  a multifaceted company offering services in 3D/2D printing, electronics manufacturing, design, sign making, interactive art, electronics design, and fulfillment services, emphasizing innovation in tech and art. -->
 
