@@ -12,7 +12,11 @@ Let us know that you want to participate and how we can plan to make this the be
 [Fill in the sign up Form](https://forms.gle/qRGc4KVHYsu5aQGX9)
 
 ## Location : 
+    
     StarSpace46, Oklahoma City
+    
+    1141 W. Sheridan Ave. 
+    Oklahoma City, OK 73106
 
 ## Dates & Times
 
