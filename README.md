@@ -92,7 +92,7 @@ Help us make this event awesome! Please [reach out](mailto:oklathon@gmail.com) i
 
 - Le Robot robot arms
 - ESP32 mqtt light and button interface
-- 
+- AI Room Decorator
 
 ## Past Projects
 
