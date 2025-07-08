@@ -72,7 +72,11 @@ A huge thank you to our amazing sponsors who make this event possible:
 - **[Techlahoma](https://www.techlahoma.org/)**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
 
 
-## More Sponsors are always needed
+## Become a Sponsor
+
+Want to support Oklathon 2025? We have sponsorship opportunities at all levels!
+
+**[View Our Sponsorship Packages](./sponsorship)**
 
 Help us make this event awesome! Please [reach out](mailto:oklathon@gmail.com) if you would like to sponsor. 
 
