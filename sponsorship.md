@@ -21,6 +21,8 @@ Thank you for your interest in sponsoring Oklathon 2025! Your support helps us c
 - First opportunity to address attendees at opening ceremony
 - All benefits listed below
 
+[**Become a Title Sponsor →**](https://buy.stripe.com/eVa9AM93d6iT0uMalmco00m)
+
 ### Corporate Sponsor - $500 (Limited to 4)
 - **4-foot table** at the event all day Saturday
 - **20-minute breakout room** for AI-related presentation (optional)
@@ -30,12 +32,16 @@ Thank you for your interest in sponsoring Oklathon 2025! Your support helps us c
 - Social media recognition
 - All benefits listed below
 
+[**Become a Corporate Sponsor →**](https://buy.stripe.com/eVa9AM93d6iT0uMalmco00m)
+
 ### Basic Sponsor - Pay What You Can
 - Public recognition during the event
 - Logo on event website
 - Permission to hand out swag at the event
 - Our undying gratitude
 - Supporting the next generation of tech talent in Oklahoma
+
+[**Donate Any Amount →**](https://givebutter.com/c/techlahomafoundation) *(Please note "Oklathon Team" in your donation)*
 
 ## Additional Sponsorship Opportunities
 
