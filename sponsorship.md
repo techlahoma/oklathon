@@ -66,7 +66,15 @@ Your contribution helps us provide:
 
 ## Ready to Sponsor?
 
-Contact us at [oklathon@gmail.com](mailto:oklathon@gmail.com) to become a sponsor or discuss custom sponsorship packages.
+1. Choose your sponsorship level and complete payment using the links above
+2. Email us at [oklathon@gmail.com](mailto:oklathon@gmail.com) with:
+   - Your company logo (high resolution PNG or SVG preferred)
+   - Your company website URL
+   - Any prizes you'd like to offer to participants
+   - Any specific requirements for your booth or presentation
+   - Contact information for event coordination
+
+Questions about sponsorship? Contact us at [oklathon@gmail.com](mailto:oklathon@gmail.com) to discuss custom packages or learn more.
 
 ---
 
