@@ -70,7 +70,8 @@ Individuals looking to learn new skills, build cool projects, and expand their p
 A huge thank you to our amazing sponsors who make this event possible:
 
 - **[Techlahoma](https://www.techlahoma.org/)**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
-
+- **[Filebase](https://filebase.com/)**: The InterPlanetary Development Platform. From IPFS pinning to dedicated IPFS gateways and IPNS names, Filebase provides all the tools you need to build the best decentralized applications.
+- **[Splotch Ccreative](https://www.splotch.page/)**:  a multifaceted company offering services in 3D/2D printing, electronics manufacturing, design, sign making, interactive art, electronics design, and fulfillment services, emphasizing innovation in tech and art. 
 
 ## Become a Sponsor
 
@@ -82,12 +83,13 @@ Help us make this event awesome! Please [reach out](mailto:oklathon@gmail.com) i
 
 
 
-- **[SPLOTCH CREATIVE](https://www.splotch.page/)**:  a multifaceted company offering services in 3D/2D printing, electronics manufacturing, design, sign making, interactive art, electronics design, and fulfillment services, emphasizing innovation in tech and art. -->
+
 
 ## Organizers
 
 - Lawrence Kincheloe
 - Ryan Hoegg
+- JayVun Berry
 - Bryan Rigsby
 - Luigi Polvani
 - S.E. Puett
