@@ -32,7 +32,7 @@ Thank you for your interest in sponsoring Oklathon 2025! Your support helps us c
 - Social media recognition
 - All benefits listed below
 
-[**Become a Corporate Sponsor →**](https://buy.stripe.com/eVq9AM93d6iT0uMalmco00m)
+[**Become a Corporate Sponsor →**](https://buy.stripe.com/bJe00c0wH4aLdhy656co00n)
 
 ### Basic Sponsor - Pay What You Can
 - Public recognition during the event
