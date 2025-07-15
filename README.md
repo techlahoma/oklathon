@@ -4,7 +4,7 @@
 
 Join us for an exciting weekend of innovation, collaboration, and learning at our AI Hack-A-Thon! Whether you're a seasoned pro or just starting your journey in Artificial Intelligence, this event is for you.
 
-**This event is free to attend!** We believe in keeping technology accessible to everyone. While attendance is completely free, we appreciate any contributions you can make to help us cover event costs and support future events - [donate what you can](https://givebutter.com/oklathon2025) (please credit "Oklathon" as your team when donating).
+**This event is free to attend!** We believe in keeping technology accessible to everyone. While attendance is completely free, we appreciate any contributions you can make to help us cover event costs and support future events - [donate what you can](https://givebutter.com/c/techlahomafoundation) (please credit "Oklathon" as your team when donating).
 
 ## Sign Up Form
 
