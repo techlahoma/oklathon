@@ -73,7 +73,8 @@ A huge thank you to our amazing sponsors who make this event possible:
 
 - **[Techlahoma](https://www.techlahoma.org/)**: a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
 - **[Filebase](https://filebase.com/)**: The InterPlanetary Development Platform. From IPFS pinning to dedicated IPFS gateways and IPNS names, Filebase provides all the tools you need to build the best decentralized applications.
-- **[Splotch Ccreative](https://www.splotch.page/)**:  a multifaceted company offering services in 3D/2D printing, electronics manufacturing, design, sign making, interactive art, electronics design, and fulfillment services, emphasizing innovation in tech and art. 
+- **[Splotch Ccreative](https://www.splotch.page/)**:  a multifaceted company offering services in 3D/2D printing, electronics manufacturing, design, sign making, interactive art, electronics design, and fulfillment services, emphasizing innovation in tech and art.
+- **[Hoegg Software](https://hoegg.software/)**: A local Oklahoma City software consulting company specializing in integration, DevOps, cloud engineering, and AI solutions. 
 
 ## Become a Sponsor
 
