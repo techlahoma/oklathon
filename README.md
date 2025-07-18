@@ -22,14 +22,48 @@ Let us know that you want to participate and how we can plan to make this the be
 
 ## Dates & Times
 
-* *Friday, July 18th: 5:30 PM - 7:30 PM* 
-    Kick off the weekend with a meet & greet, an introductory talk to set the stage, and an idea breakout session to form teams and brainstorm projects.
-* *Saturday, July 19th: 8:00 AM - 6:00 PM* 
-    The main event! Dive deep into your projects. We'll have guest speakers throughout the day sharing insights on diverse AI & ML topics and real-world use cases. Mentors will be available to help you troubleshoot and refine your ideas.
-* *Sunday, July 20th (Optional but Recommended!): 8:00 AM - 1:00 PM* 
-    Continue hacking, finalize your projects, and prepare for presentations. This is a great opportunity to put the finishing touches on your creations and get last-minute advice. The day will culminate in project showcases where you can share what you've built and learned.
+### **Oklathon: Event Itinerary**
 
+Here is the schedule for the Oklathon weekend. We're excited to see what you create!
 
+### **For Volunteers**
+
+* **Friday Setup:** 4:30 PM - 5:30 PM
+* **Sunday Teardown:** 1:00 PM - 2:00 PM
+
+### **Friday, July 18th (5:30 PM - 7:30 PM)**
+
+*Kick off the weekend with a meet & greet, an introductory talk to set the stage, and an idea breakout session to form teams and brainstorm projects.*
+
+* **5:30 PM:** Doors Open & Check-in
+* **6:00 PM:** Welcome & Kickoff Presentation
+* **6:45 PM:** Idea Pitches & Team Formation
+* **7:30 PM:** **Venue Closes for the Evening.** Teams are encouraged to grab dinner together at a nearby venue (self-funded) to connect and plan their projects.
+
+### **Saturday, July 19th (8:00 AM - 6:00 PM)**
+
+*The main event! Dive deep into your projects. We’ll have guest speakers throughout the day sharing insights on diverse AI & ML topics and real-world use cases. Mentors will be available to help you troubleshoot and refine your ideas.*
+
+* **8:00 AM:** Doors Open, Coffee & Snacks
+* **8:30 AM:** Day 2 Kickoff & Announcements
+* **9:00 AM:** Hacking Begins
+* **11:00 AM:** Guest Speaker / Workshop Session
+* **12:30 PM:** Lunch Provided
+* **2:00 PM:** Guest Speaker / Workshop Session
+* **4:00 PM:** Afternoon Snack & Coffee Refill
+* **5:45 PM:** Closing Remarks & Prep for Sunday
+* **6:00 PM:** Venue Closes
+
+### **Sunday, July 20th (8:00 AM - 1:00 PM)**
+
+*Continue hacking, finalize your projects, and prepare for presentations. This is a great opportunity to put the finishing touches on your creations and get last-minute advice. The day will culminate in project showcases where you can share what you’ve built and learned.*
+
+* **8:00 AM:** Doors Open, Coffee & Snacks
+* **8:30 AM:** Final Hacking & Presentation Prep
+* **10:00 AM:** **Project Submissions Due**
+* **10:30 AM:** Project Presentations & Demos Begin
+* **12:00 PM:** Judge Deliberation & Awards Ceremony
+* **1:00 PM:** Event Concludes
 ## What to Expect
 
 * *Guest Speakers*: Learn from industry experts and academic leaders discussing cutting-edge AI and ML concepts and applications, or demo your project live!
