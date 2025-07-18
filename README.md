@@ -22,11 +22,11 @@ Let us know that you want to participate and how we can plan to make this the be
 
 ## Dates & Times
 
-* *Friday, July 18th: 5:30 PM - 9:00 PM* 
+* *Friday, July 18th: 5:30 PM - 7:30 PM* 
     Kick off the weekend with a meet & greet, an introductory talk to set the stage, and an idea breakout session to form teams and brainstorm projects.
 * *Saturday, July 19th: 8:00 AM - 6:00 PM* 
     The main event! Dive deep into your projects. We'll have guest speakers throughout the day sharing insights on diverse AI & ML topics and real-world use cases. Mentors will be available to help you troubleshoot and refine your ideas.
-* *Sunday, July 20th (Optional but Recommended!): 9:00 AM - 3:00 PM* 
+* *Sunday, July 20th (Optional but Recommended!): 8:00 AM - 1:00 PM* 
     Continue hacking, finalize your projects, and prepare for presentations. This is a great opportunity to put the finishing touches on your creations and get last-minute advice. The day will culminate in project showcases where you can share what you've built and learned.
 
 
