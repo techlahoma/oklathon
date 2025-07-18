@@ -84,8 +84,8 @@ Individuals looking to learn new skills, build cool projects, and expand their p
 1. Any specific software or tools you prefer for development.
 1. Your enthusiasm and ideas!
 
-## Resources and TutorialsAdd commentMore actions
-
+## Resources and Tutorials
+- [Details on the available models](https://nrp.ai/documentation/userdocs/ai/llm-managed/#available-models)
 - [freeCodeCamp](https://www.freecodecamp.org/)
   - [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
   - [JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
