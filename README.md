@@ -127,6 +127,7 @@ Help us make this event awesome! Please [reach out](mailto:oklathon@gmail.com) i
 - [Oklahom.ai - Tulsa](https://www.meetup.com/oklahomai-developers/)
 - [Coffee and Code](https://www.meetup.com/okccoffeeandcode/)
 - [OKC Open Source Hardware](https://www.meetup.com/okc-osh/)
+- [The Summer Startup - Happining July 25th!](https://thesummerstartup.com/)
 
 
 ## Organizers
