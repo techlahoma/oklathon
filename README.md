@@ -118,8 +118,11 @@ Want to support Oklathon 2025? We have sponsorship opportunities at all levels!
 
 Help us make this event awesome! Please [reach out](mailto:oklathon@gmail.com) if you would like to sponsor. 
 
-
-
+## Supporting User Groups
+- [Oklahom.ai - OKC](https://www.meetup.com/oklahom_ai/)
+- [Oklahom.ai - Tulsa](https://www.meetup.com/oklahomai-developers/)
+- [Coffee and Code](https://www.meetup.com/okccoffeeandcode/)
+- [OKC Open Source Hardware](https://www.meetup.com/okc-osh/)
 
 
 ## Organizers
