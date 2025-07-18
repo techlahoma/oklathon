@@ -23,6 +23,20 @@ Welcome to the **Oklathon 2025 "Climb the Challenge Board"** track\! These short
 import os
 import requests # We need this for listing the models
 from openai import OpenAI, APIError
+from IPython.display import HTML, display # Added for word wrap
+
+# --- Configure for better readability in Colab (Word Wrap) ---
+# This snippet helps prevent long AI responses from creating horizontal scrollbars,
+# making the output easier to read in Google Colab cells.
+def set_css():
+  display(HTML('''
+  <style>
+    pre {
+        white-space: pre-wrap;
+    }
+  </style>
+  '''))
+get_ipython().events.register('pre_run_cell', set_css)
 
 # --- Configuration ---
 # This safely gets your API key from Colab's Secret Manager.
@@ -285,6 +299,7 @@ try:
 except APIError as e:
     print(f"An API error occurred: {e}")
 except Exception as e:  
+    print(f"An unexpected error occurred: {e}") 
 ```
 
 </code>
