@@ -3,7 +3,7 @@
 
 ---
 
-### 🤖 AI Integrated Smart-Home
+### 🤖🏠 AI Integrated Smart-Home
 
 * **Team:**
     * Julian Francisco
@@ -12,7 +12,7 @@
 
 ---
 
-###  vault ReEntry Vault / Help Edmond.AI
+### ❤️🏠 vault ReEntry Vault / Help Edmond.AI
 
 * **Team:**
     * Brian Hewes
@@ -37,7 +37,7 @@
 
 ---
 
-### 🦾 Vision Robot Project X WALDO
+### 🦾🤖 Vision Robot Project X WALDO
 *(We Are Lacking Da Name)*
 
 * **Team:**
