@@ -8,7 +8,8 @@
 * **Team:**
     * Julian Francisco
     * Brent Anyway
-* **Status:** Needs more people.
+    * Vickie
+    * Robert
 
 ---
 
@@ -25,6 +26,7 @@
     * Verbas
     * Levi
     * Tony
+    * Jayvun
 
 ---
 
@@ -33,12 +35,12 @@
 * **Team:**
     * Alex
     * Justin
-* **Status:** Needs one more person. The team needs to prepare to pitch their idea.
-
+    * Nachole
+    * Cam
+      
 ---
 
 ### 🦾🤖 Vision Robot Project X WALDO
-*(We Are Lacking Da Name)*
 
 * **Team:**
     * Lawrence
@@ -49,6 +51,11 @@
 
 ---
 
-### 📋 Future Planning
+### 📋 Joi
+
+* **Team:**
+   * Zane
+   * Ivan
+   * Jed
 
 * More Projects to come!
